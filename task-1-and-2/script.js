@@ -85,4 +85,3 @@ soccerPlayer.clubsPlayedFor.forEach(club => {
     console.log(`He played at ${club.clubName} in ${club.country} from ${club.start}-${club.stop}`)
 });
 
-console.log(soccerPlayer['Is Active'])
